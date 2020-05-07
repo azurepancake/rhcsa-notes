@@ -1,4 +1,4 @@
-#Useful Linux tools:
+### Useful Linux tools:
 
 * `free`
   * View system memory statistics
@@ -7,7 +7,7 @@
 * `findmnt`
   * Shows all mounts and filesystems
 
-#Redirection
+### Redirection
 * `<`
   * Directs stdin to destination
 * `>`
