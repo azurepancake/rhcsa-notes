@@ -1,4 +1,4 @@
-The RHEL installation menu allows you to configure the following settings:
+### The RHEL installation menu allows you to configure the following settings:
 
 * Keyboard
 * Language Support
